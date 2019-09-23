@@ -244,3 +244,9 @@ body > div.day-box.CURRENT > div.prep-box > a > div > div.grade
     height: 110px;
     width:80px;
 }
+
+iframe
+{
+     margin-top: 60px;
+     margin-bottom: 60px;
+}
