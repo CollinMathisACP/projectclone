@@ -231,11 +231,6 @@ margin-left:15%;}
     margin-left: 15%;
 }
 
-.grade-table
-{
-    font-size:36px;   
-}
-
 body > div.day-box.COMPLETED > div.prep-box > a > div > div.grade
 {margin-left: 0px;}
 
@@ -246,8 +241,8 @@ body > div.day-box.CURRENT > div.prep-box > a > div > div.grade
 
 .person_image
 {
-    height: 10%;
-    width: 10%;
+    height: 80px;
+    width: 110px;
 }
 
 iframe
@@ -279,7 +274,6 @@ prompt
 
 .assignment-title
 {
-    font-size: 48px;
     width: 80%;
     margin-left: 10%
 }
