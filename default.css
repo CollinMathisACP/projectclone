@@ -252,10 +252,12 @@ body > div.day-box.CURRENT > div.prep-box > a > div > div.grade
 
 iframe
 {
-    width: 1200px;
+    display: block;
+    width: 80%;
     height: 800px;
     margin-top: 45px;
     margin-bottom: 30px;
+    margin-left: 10%;
     border-style: solid;
     border-color: white;
     border-width: 3px;
@@ -268,5 +270,5 @@ prompt
 
 .grade-table
 {
-    font-size: 24px;
+    font-size: 18px;
 }
